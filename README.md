@@ -8,6 +8,7 @@
 This package provides library-related commands to Particle Dev.
 
 # Add library to a project
+#hello
 
 When working on a project, open command palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> on macOS and <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> on Windows/Linux) and search for `libraries add`.
 
